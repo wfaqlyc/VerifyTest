@@ -5,3 +5,4 @@ VerifyTest/**/*.pdb
 VerifyTest/**/*.sdf
 VerifyTest/**/*.exp
 VerifyTest/**/*.dsp
+VerifyTest/.vs
