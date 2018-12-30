@@ -1,0 +1,8 @@
+VerifyTest/**/*.exe
+VerifyTest/**/*.obj
+VerifyTest/**/*.suo
+VerifyTest/**/*.pdb
+VerifyTest/**/*.sdf
+VerifyTest/**/*.exp
+VerifyTest/**/*.dsp
+VerifyTest/.vs
